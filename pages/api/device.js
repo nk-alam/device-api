@@ -2,7 +2,7 @@
 export default function handler(req, res) {
     const devices = [
         {
-            "device_id": "18b33d41e5556451",
+            "device_id": "1a008b775b6b5398",
             "username": "rahul",
             "password": "123",
             "expirydate": "20-10-2025",
