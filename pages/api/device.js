@@ -1,7 +1,7 @@
 // pages/api/device.js
 export default function handler(req, res) {
     const device = {
-        "device_id": "9d3726a1629a4e63",
+        "device_id": "1a008b775b6b5398",
         "username": "rahul",
         "password": "123",
         "expirydate": "30-10-2025",
